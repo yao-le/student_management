@@ -1,4 +1,4 @@
-# student management System
+# Student Management System
 
 - Utilized Spring MVC to implement the API for the student management system, which supports CRUD operations.
 - Used JPA to enable rapid intersection between database and model.
